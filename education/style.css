@@ -1,0 +1,105 @@
+/* Nav Bar */
+.custom-nav
+{
+    box-shadow: 0px 4px 5px rgba(24, 20, 20, 0.363);
+}
+.custom-divider
+{
+    height: 7px;
+    background: rgb(246,129,5);
+background: linear-gradient(90deg, rgba(246,129,5,1) 1%, rgba(241,11,11,1) 12%, rgba(132,207,17,1) 27%, rgba(249,233,0,1) 48%, rgba(182,17,218,1) 67%, rgba(19,227,228,1) 83%, rgba(0,212,255,1) 100%);
+}
+.main-banner
+{
+    padding-top: 150px;
+    padding-bottom:100px;
+    background-image:url(main-banner.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    color: white;
+
+}
+.feature-holder
+{
+    text-align: center;
+}
+.feature-list
+{
+    padding-top: 35px;
+    padding-bottom: 35px;
+    margin-bottom: 20px;
+    background-color: rgba(128, 128, 128, 0.068);
+}
+.feature-holder h3
+{
+    font-size: 1.5rem;
+}
+.feature-holder p
+{
+    font-size: 1rem;
+}
+
+.online-coures .card-title {
+    margin-bottom: .5rem;
+    font-size: 1.5rem;
+}
+.online-coures .card-text{
+    font-size: 1rem;
+}
+.online-coures .card{
+    box-shadow: 9px 7px 10px rgba(128, 128, 128, 0.192);
+}
+.online-more-coures, .book-classroom-training, .Review-say{
+    text-align: center;
+}
+.online-more-coures p, .book-classroom-training p, .Review-say p
+{
+    font-size: 0.9rem;
+}
+.classroom-training
+{
+    background-color: rgba(128, 128, 128, 0.068);
+}
+.classroom-training .card-text
+{
+    font-size: 0.9rem;
+}
+.list-group p.text-dark {
+    font-size: 0.9rem;
+}
+.carousel .card
+{
+    align-items: center;
+    text-align: center;
+}
+.carousel
+{
+    box-shadow: 9px 7px 10px rgba(128, 128, 128, 0.192);
+}
+
+.carousel .card .star
+{
+    color: gold;
+}
+.footer-widget ul li
+{
+    
+    list-style: none;
+
+}
+.footer-widget ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+.copy-rights
+{
+    background-color:black ;
+}
+
+/* Google maps */
+.google-maps
+{
+    padding-top: 54px;
+}
